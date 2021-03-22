@@ -8,7 +8,7 @@ The goal of this repository and project are to present a working framework for u
 
 ## Diagram
 
-![arch](C:\D\MIDS\IDS 721 Cloud Computing\indivial projects\p4_lambda_nlp\ServerlessPipeline\img\arch.png)
+![arch](./img/arch.png)
 
 
 
